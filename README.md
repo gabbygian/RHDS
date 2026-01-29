@@ -1,2 +1,1 @@
-# RHDS
-Example project - RHDS course 
+# rhds
